@@ -5,7 +5,7 @@
 from validaciones.validaciones import validar_nombre, validar_edad
 from matematicas.calculos import calcular_costo
 
-print("===Matricula del curso===")
+print("===Matricula de curso===")
 
 nombre=input("Ingresa tu nombre: ")
 edad=int(input("Ingresa tu edad: "))
