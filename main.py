@@ -25,3 +25,5 @@ else:
 
 #Intenten validar las horas del curso, no hayan horas negativas
 #Creen una funcion para hacer un descuento del 10% si la persona es mayor a 65 años
+
+#Comentario para validar de que en mi computadora personal puedo seguir trabajando
